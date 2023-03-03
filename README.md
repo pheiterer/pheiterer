@@ -1,6 +1,6 @@
 ![](topOfReadme.gif)
 
-## ___Hey, my name is Paulo Henrique ___
+## ___Hey, my name is Paulo Henrique___
 - :computer: I’m interested in software engineering
 - :bookmark_tabs: I’m currently learning Java, JavaScript and Phyton
 - :mortar_board: Graduating at Computer Science
