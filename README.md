@@ -1,7 +1,7 @@
 ![](topOfReadme.gif)
 
 ## ___Hey, my name is Paulo Henrique___
-- :computer: I’m interested in software engineering
+- :computer: I’m interested in software engineering, machine learning and deep learning.
 - :bookmark_tabs: I’m currently learning Java, JavaScript, Phyton and Machine Learning
 - :mortar_board: Graduating at Computer Science
 
