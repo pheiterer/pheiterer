@@ -1,4 +1,4 @@
-![](topOfReadme.gif)
+[![](topOfReadme.gif)](gist.github.com/RydelMorgan)
 
 ## ___Hey, my name is Paulo Henrique___
 - :computer: I’m interested in software engineering, machine learning and deep learning.
