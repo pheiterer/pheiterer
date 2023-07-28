@@ -1,4 +1,4 @@
-[![Gists](topOfReadme.gif)](https://gist.github.com/RydelMorgan)
+[![Gists](topOfReadme.gif)](https://gist.github.com/pheiterer)
 
 ## ___Hey, my name is Paulo Henrique___
 - :computer: I’m interested in software engineering, machine learning and deep learning.
