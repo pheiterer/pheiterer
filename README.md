@@ -4,6 +4,7 @@
 - :computer: I’m interested in software engineering, machine learning and deep learning.
 - :bookmark_tabs: I’m currently learning Java, JavaScript, Phyton and Machine Learning
 - :mortar_board: Graduating at Computer Science
+- 🪪 Here you can see my [portfolio](https://pheiterer.github.io/contact)
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheiterer&count_weight=0.5&layout=compact&theme=transparent&hide_title=true&text_color=ffffff&hide_border=true"></a>
 
