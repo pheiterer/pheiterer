@@ -1,6 +1,6 @@
 [![Gists](topOfReadme.gif)](https://gist.github.com/pheiterer)
 
-## ___Hey, my name is [Paulo Henrique](https://pheiterer.github.io/)___
+## ___Hey, my name is [Paulo Henrique](https://paulo-henrique-puce.vercel.app/)___
 - :computer: I’m interested in software engineering, machine learning and deep learning.
 - :bookmark_tabs: I’m currently learning Java, JavaScript, Phyton and Machine Learning
 - :mortar_board: Graduating at Computer Science
